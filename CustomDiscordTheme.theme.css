@@ -4,10 +4,10 @@
 * @description Uses a custom font
 */
 
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('file:///C:/Users/barra/Music/SOPHIE/Lyno%20ttf/Lyno-Jean%202.ttf,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 
 :root {
-    --font-primary: 'JetBrains Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
-    --font-display: 'JetBrains Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    --font-primary: 'Lyno-Jean', 'Helvetica Neue', Lyno-Jean, Lyno-Jean, Lyno-Jean !important;
+    --font-display: 'Lyno-Jean', 'Helvetica Neue', Lyno-Jean, Lyno-Jean, Lyno-Jean !important;
 }
 
